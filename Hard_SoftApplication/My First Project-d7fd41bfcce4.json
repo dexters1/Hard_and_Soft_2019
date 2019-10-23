@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "algebraic-link-256814",
+  "private_key_id": "d7fd41bfcce46f1737ff72375d345d76deb40ef7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQaTt5EplPURqt\nMnWJPXgsT0FzM36VsPqsbyRbviwDdPANnpQ5jDgTVhfImvoz9zPCeVapVdpsf2Bo\nYWzdhKTNcd+tOOi+5MbVBeCI/Oa1RRseltNKb3zJS886aVNAH6AHZKb+LrZF+OdJ\ngKHtC9vNDwS/TvVRHx4lguT03iO+/AG4q62L9ThdY87gg6MEdyCSaYao7bHcmqu6\nxPaKDlpCAORYz9vr5Xioy981mD/JcQW/UwgU6wPkjQPayqMS2n4gY+Z9jiAjBM9g\nPYLm4UQ6zcSLfhvw3ZZXc6XE5k9/EVcBbL8gf4N+EyWCLm8QIpgAVDpnDZZAwNQA\nfRSE0ppPAgMBAAECggEANJKXIg+DBPMcm5wi8h/DdMn5ZKoUwIYIdf8DWPE8ARM6\nivT5xxqL+rS5Ay209+7f66rYJZc2pi/rjekloSuYtwqGtheo/p6PWaVF4siJGij4\nklrRqfE9tTmeaMmw6ngP0k2donj+GeCT14LPVhCrvaqQNAIi9/e1jxjZ0LtIoSBU\nbnbd9plCwa2R2ii14GWPwRkkKEEaZfHOIX3ecA05lgxjvUU2tRDdi68KuYCfxVnm\nAYQ4jF3nk4zKxm/MRI0XIDuc0uvQYoqO7AReSGQ9uxbbG05GmELwnGYLGDUXRe/e\n+vZ9O3M4qXooGjpb3Yu0xUuISKBeAMcTr7lalPp/YQKBgQDsM7nm8ahFWJdHG0p7\nGTCCHnvU9umSA9MNScxnsVuxVz9IFTdBz6P6WaKa9k+GUAQhE/rCgpmr5jH5+LNT\n9OJ1optMD9lspbh96n8qnNPR+UkVP6fk10JampS1cU0F/GTy6+h34lyi7xEqXMxp\nq0T4NJSGBTMfz/jnFHw69aIECwKBgQDh4S9GrEZ8iwTXbhhjjPL/OYE3hvKtlNPx\no2P2wLtuFbZfGmQTqgtRJWd6vxPOwFJEz1wUgW6UnFwt8ci6BVuDu37wjGsgaAHH\n+WDHde3iwA25m1jRenUgXs3Z3odFQGkMJYlauVQuGOfRVIsd/GD2zogOwD2WsZ2s\nxSaJL7kJTQKBgQDpfPh34sqEQl7IW6H0raHV/mxKyQl63Wzz5c+5cQlC9QwJJW/K\nDof6IkErDfDuxIpQaH+pZ5Cg7JzajY43oAt8XZFGTySO0gLd9cBfT0fUeKhV6Ob+\nwAtHpSb7dVS+ZhEkUS8r0wffyJMfXTxz+GnlMZTgJqOy/tL9GrLzVX0ioQKBgEX4\nKFnfEbKQqb5GB14HElrHKGTX86KbgI/Qii2shCLUrPqGxUtmGD1ZtdVLDUq1Poa8\nKQzdDzEPwmolBIXDFRcYZHkFNkYCkdKtSDJhMIBV96pwGbJCGbgeRevgR8zG6ANw\nOT0WPaJN6rloU/PE8xBg57qSCEH+4RXcuFQ0qT/dAoGBAI5vDDG13P0hH0ByLlIb\nit8B4+ytPHoQklJpDoBAYp2uTqGr85JXz9Q7JiTJUNwI1/xDLOx7LnKWWb579TD+\n4j0G0O6cpO2M9kXKumph9P0jPufu90QdaWLIfR1wMl12l+HZ+0jeb7DWlUbGiLiS\nFRuuMFt75XN/YLsI2hG9xs9s\n-----END PRIVATE KEY-----\n",
+  "client_email": "hardsoftapplicationservice@algebraic-link-256814.iam.gserviceaccount.com",
+  "client_id": "100352102646515775468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hardsoftapplicationservice%40algebraic-link-256814.iam.gserviceaccount.com"
+}
